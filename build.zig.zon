@@ -1,0 +1,12 @@
+.{
+    .name = "iofthetiger",
+    .version = "0.1.0",
+    .minimum_zig_version = "0.13.0-dev.230+50a141945",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "LICENSE",
+        "README.md",
+    },
+}
